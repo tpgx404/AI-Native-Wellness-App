@@ -1,0 +1,7 @@
+{
+  "name": "Dream Monitor 2.0",
+  "description": "An advanced empathetic AI mental wellness companion with dream sketching, voice recording, and deep subconscious analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
