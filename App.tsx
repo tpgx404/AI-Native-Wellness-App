@@ -1,4 +1,3 @@
-
 import React, { useState, useEffect } from 'react';
 import { DreamState, DreamRecord, InputMode, DreamType, Mood, Theme } from './types';
 import { analyzeDream } from './services/geminiService';
